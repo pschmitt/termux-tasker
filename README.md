@@ -4,6 +4,11 @@
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
 A [Termux] plugin app allowing `Termux` commands to be executed from [Tasker] and other plugin host apps.
+
+> **TermuxPP release channel:** New builds are published in the
+> [TermuxPP monorepo](https://github.com/pschmitt/termuxpp/releases/tag/latest).
+> Existing releases here remain available to older clients. See the
+> [self-update guide](https://github.com/pschmitt/termuxpp/blob/main/docs/en/self-update.md).
 ##
 
 
